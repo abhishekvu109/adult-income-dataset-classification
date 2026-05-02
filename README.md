@@ -493,7 +493,7 @@ Every step logs its start, completion, and key statistics (rows processed, featu
 
 ---
 
-## 14. Key Interview Questions & Deep Answers
+## 14. Questions & Answers
 
 **Q: Why did you use RobustScaler instead of StandardScaler?**
 
