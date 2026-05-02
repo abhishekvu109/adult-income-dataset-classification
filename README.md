@@ -19,8 +19,7 @@
 11. [Results Interpretation & What the Numbers Actually Mean](#11-results-interpretation--what-the-numbers-actually-mean)
 12. [Production Pipeline Architecture — Why OOP](#12-production-pipeline-architecture--why-oop)
 13. [Limitations & What I Would Do Differently](#13-limitations--what-i-would-do-differently)
-14. [Questions & Answers]
-(#14-questions-answers)
+14. [Questions & Answers](#14-questions-answers)
 
 ---
 
